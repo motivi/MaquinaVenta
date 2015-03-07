@@ -1,30 +1,30 @@
 
 Miembros:
 
-		Cheng Deng 					G36302433
-		Jesús María Gómez Moreno	75917069A
-		Zhang Xiao      			E02018202
+		Cheng Deng				G36302433
+		Jesús María Gómez Moreno		75917069A
+		Zhang Xiao				E02018202
 
 Descripcion inicial de proyecto - Maquina de Venta:
 ===================================================
 
 ####Estructura externa(Componentes visibles):
-		* Brazo Movil
-		* Palo de soporte
+		* Brazo movil
 		* Pantalla de led informativa
 		* Ranura de salida de cambio
-		* Ranura de entrada de moneda
+		* Ranura de entrada de monedas
+		* Ranura para la entrada de billetes
 		* Escaparate de tamaño [10 filas * 5 columnas]
 		* Soportes de producto 50 unidades
-		* Sensores infrarrojo
-		* Ranura grande de salida de producto
+		* Sensores infrarrojos
+		* Ranura grande de salida de producto (con puerta y tirador)
 
 ####Estructura interna:
 		* Alimentador
 		* Placa de control
 		* Refrigerador
 		* Soporte para hardware
-		* Lector de tarjeta(SIM)  -- envia a compania un mensaje(fuera de servicio)
+		* Lector de tarjeta(SIM)  -- para enviar mensajes en caso de errores
 
 ####Descripción
 ######	Nuestro objetivo es el diseño de una máquina dispensadora de comestibles ("snacks") y bebidas de uso público. La interfaz consistirá en ranuras para la introducción del pago y una botonera para la interacción, así como una pantalla que mostrará información del producto, el estado de la operación actual (o un mensaje en caso de estar inactiva) e información adicional (fecha y hora, empresa proveedora y otros datos similares). Deberá mostrar también los productos a través de un vidrio protector (los productos estarán ordenados por filas y columnas con letreros informativos). La interfaz también incluirá una cavidad para recoger el producto a través de una pequeña puerta situada en la parte inferior, bajo el vidrio protector así como un pequeño hueco para recoger el cambio.
