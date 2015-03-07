@@ -4,6 +4,35 @@ Miembros:
 		Jesús María Gómez Moreno	75917069A
 		Zhang Xiao      		E02018202
 
+
+Maquina De Venta
+
+Estructura Externa(Componentes que se ven por fuera):
+.Brazo Movil
+.Palo de soporte
+.Pantalla de led informativa
+.Ranura de salida de cambio
+.Ranura de entrada de moneda
+.Escaparate de tamaño [10filas*5columnas];
+.Soportes de producto 50 unidades
+.Infrarrojo
+.Ranura grande de salida de producto
+
+
+Estructura Interna
+.Alimentador
+.Congelador
+.Placa de control
+.Refrigerador
+.Soporte para hardware
+.Lector de tarjeta(SIM)  -- envia a compania un mensaje(fuera de servicio)
+
+
+
+
+
+
+
 Breve comentario sobre el proyecto:
 
 	Nuestro objetivo es el diseño de una máquina dispensadora de comestibles
