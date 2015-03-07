@@ -26,7 +26,7 @@ Descripcion inicial de proyecto - Maquina de Venta:
 		* Soporte para hardware
 		* Lector de tarjeta(SIM)  -- envia a compania un mensaje(fuera de servicio)
 
-
+####Descripción
 ######	Nuestro objetivo es el diseño de una máquina dispensadora de comestibles ("snacks") y bebidas de uso público. La interfaz consistirá en ranuras para la introducción del pago y una botonera para la interacción, así como una pantalla que mostrará información del producto, el estado de la operación actual (o un mensaje en caso de estar inactiva) e información adicional (fecha y hora, empresa proveedora y otros datos similares). Deberá mostrar también los productos a través de un vidrio protector (los productos estarán ordenados por filas y columnas con letreros informativos). La interfaz también incluirá una cavidad para recoger el producto a través de una pequeña puerta situada en la parte inferior, bajo el vidrio protector así como un pequeño hueco para recoger el cambio.
 
 ######	También se deberán incluir ranuras para la introducción de billetes pequeños (de 5 y 10 euros). Los billetes más grandes no deberán ser aceptados. Por otro lado, se incluye una ranura para introducir tarjetas de descuentos.
