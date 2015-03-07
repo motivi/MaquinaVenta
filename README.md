@@ -46,6 +46,6 @@ Descripcion inicial de proyecto - Maquina de Venta:
 ######	Como forma de contabilizar el número de unidades de cada producto que se tienen, se podría implementar un sistema de sensores infrarrojos que detectase en qué posiciones hay una unidad. Así evitaríamos problemas cuando un usuario que haya introducido dinero teclee un identificador de un producto que no tenga unidades.
 
 ######  En la pantalla de informacion, en caso de no estar realizando ninguna operación se mostrará la siguiente estructura.
-![github](http://github.com/motivi/maquinaVenta/estruturaPantalla.png "github")
+![github](https://github.com/motivi/maquinaVenta/blob/master/estructuraPantalla.png "github")
 
 
