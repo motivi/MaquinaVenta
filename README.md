@@ -4,11 +4,9 @@ Miembros:
 		Jesús María Gómez Moreno	75917069A
 		Zhang Xiao      		E02018202
 
-Descripcion inicial de proyecto:
+Descripcion inicial de proyecto - Maquina de Venta:
+===================================================
 
-<div>
-	<h6>Maquina de ventas</h6>
-<p>
 Estructura externa(Componentes visibles):
 	* Brazo Movil
 	* Palo de soporte
