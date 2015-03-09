@@ -1,8 +1,7 @@
-
 Miembros:
 
 		Cheng Deng				G36302433
-		JesÃºs MarÃ­a GÃ³mez Moreno		75917069A
+		Jesús María Gómez Moreno		75917069A
 		Zhang Xiao				E02018202
 
-######	En el documento adjunto (DescripciÃ³n inicial del proyecto.txt) se dan las caracterÃ­sticas principales que deberÃ¡ cumplir el producto:
+######	En el documento adjunto (Descripción inicial del proyecto.txt) se dan las características principales que deberá cumplir el producto:
