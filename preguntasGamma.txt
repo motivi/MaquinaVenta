@@ -2,6 +2,7 @@ Preguntas al equipo gamma:
 
 Cheng:
 
+<<<<<<< HEAD
 1. ¿Implementaríais una interfaz gráfica de usuario?
 
 2. ¿Qué mecanismo de compra emplearíais (pasos a seguir)?
