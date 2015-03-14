@@ -1,0 +1,23 @@
+Preguntas al equipo Gamma:
+
+- ¿Se devolverá alguna información al usuario al utilizar la máquina o únicamente se le permitirá introducir datos? En caso de que se devuelva, ¿Cómo se podrá obtener información acerca de los productos?
+
+- ¿Será posible recuperar el dinero una vez introducido por el usuario en caso de error? Si fuese posible, ¿cómo?
+
+- ¿De que forma se establecerán los identificadores para cada producto? ¿Será una identificación estática o dinámica?
+
+- ¿Guardará el sistema algún tipo de información acerca de cada producto (o cada identificador)? En caso de que lo haga, ¿se podrá configurar dicha información? ¿Mediante qué mecanismo o interfaz?
+
+- ¿De qué manera podría un técnico acceder a los sistemas internos de la máquina en caso de producirse un mal funcionamiento?
+
+- A parte del posicionamiento de los productos delicados, ¿pensais incluir alguna medida de protección de los productos?
+
+- ¿De qué forma puede un usuario saber si el dinero que ha introducido es suficiente?
+
+- El informe de los elementos que se quedan rápido sin stock, ¿de qué forma se redacta y almacena? ¿Cómo se señaliza en caso de quedarse sin stock?
+
+- ¿Habrá alguna forma de comunicación con la empresa proveedora del servicio para automatizar procesos como reparaciones o reposiciones?
+
+- ¿De que manera se recogerá el cambio (dinero restante) y cómo se recogerán los productos solicitados?
+
+- ¿Cuales son los pasos concretos para solicitar un producto y pagarlo?
