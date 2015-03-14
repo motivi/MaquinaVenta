@@ -2,7 +2,6 @@ Preguntas al equipo gamma:
 
 Cheng:
 
-<<<<<<< HEAD
 1. ¿Implementaríais una interfaz gráfica de usuario?
 
 2. ¿Qué mecanismo de compra emplearíais (pasos a seguir)?
@@ -46,3 +45,18 @@ Jesus:
 
 
 Xiao:
+
+1. Pueden dañarse fácilmente。
+
+2. Porque las cosas no son similares en tamaños, no puede limitar el espacio de exhibición,  y      pérdida de espacio.
+
+3.  No puede comprobar la calidad del producto.
+
+4.  Falta las medidas de emergencia：
+
+     a. Cuando el producto se entrega dañado ¿qué solución tenéis?
+
+     b. Cuando ya pagado pero la maquina no función ¿qué solución tenéis?
+
+     c……….
+
