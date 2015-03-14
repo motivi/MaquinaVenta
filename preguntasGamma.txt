@@ -1,62 +1,35 @@
-Preguntas al equipo gamma:
-
-Cheng:
+A continuación se listan una serie de cuestiones que, creemos, sería importante abordar para completar el proyecto (no todas las respuestas tienen por qué estar incluidas en la descripción inicial):
 
 1. ¿Implementaríais una interfaz gráfica de usuario?
 
-2. ¿Qué mecanismo de compra emplearíais (pasos a seguir)?
+2. ¿Se devolverá alguna información al usuario al utilizar la máquina o únicamente se le permitirá introducir datos? En caso de que se devuelva, ¿Cómo se podrá obtener información acerca de los productos (aparte de utilizando una GUI)?
 
-3. Si un usuario esta haciendo una compra y ocurre un error, ¿qué hace la máquina? ¿Y si se produce otro error?
+2. ¿Qué mecanismo de compra emplearíais? ¿Cuáles son los pasos concretos para solicitar un producto y pagarlo?
 
-4. Si cuando la máquina está en reposo (no está procesando un pedido), si hay un fallo de software o hardware, ¿qué solución teneis?
+3. ¿Será posible recuperar el dinero una vez introducido por el usuario y antes de entregar el producto? Si un usuario esta haciendo una compra y ocurre un error, ¿qué hace la máquina? ¿Y si se produce otro error?
 
-5. ¿Qué solución hay si el producto se entrega dañado?
+4. Cuando el producto se entrega dañado, ¿qué solución tenéis?
 
-6. ¿Qué unidad de medida usais para el tamaño de la máquina? Sólamente se indican los valores (1'90 x 1'20 x 0'90).
+5. Si cuando la máquina está en reposo (no está procesando un pedido) hay un fallo de software o hardware, ¿qué solución teneis?
 
-7. ¿Cómo repone el técnico los productos? ¿Hay algún sistema de identificación?
+6. ¿De qué forma puede un usuario saber si el dinero que ha introducido es suficiente?
 
-8. ¿Dónde se encuentran las aperturas de la máquina (para la salida de productos y otros usos?
+7. ¿Qué unidad de medida usais para el tamaño de la máquina? Sólamente se indican los valores (1'90 x 1'20 x 0'90).
 
+8. ¿De que forma se establecerán los identificadores para cada producto? ¿Será una identificación estática o dinámica?
 
-Jesus:
+9. ¿Guardará el sistema algún tipo de información acerca de cada producto (o cada identificador)? En caso de que lo haga, ¿se podrá configurar dicha información? ¿Mediante qué mecanismo o interfaz?
 
-1. ¿Se devolverá alguna información al usuario al utilizar la máquina o únicamente se le permitirá introducir datos? En caso de que se devuelva, ¿Cómo se podrá obtener información acerca de los productos?
+10. ¿Cómo repone el técnico los productos?
 
-2. ¿Será posible recuperar el dinero una vez introducido por el usuario en caso de error? Si fuese posible, ¿cómo?
+11. ¿De qué manera podría un técnico acceder a los sistemas internos de la máquina en caso de producirse un mal funcionamiento?
 
-3. ¿De que forma se establecerán los identificadores para cada producto? ¿Será una identificación estática o dinámica?
+12. El informe de los elementos que se quedan rápido sin stock, ¿de qué forma se redacta y almacena? ¿Cómo se señaliza en caso de quedarse sin stock?
 
-4. ¿Guardará el sistema algún tipo de información acerca de cada producto (o cada identificador)? En caso de que lo haga, ¿se podrá configurar dicha información? ¿Mediante qué mecanismo o interfaz?
+13. ¿Habrá alguna forma de comunicación con la empresa proveedora del servicio para automatizar procesos como reparaciones o reposiciones?
 
-5. ¿De qué manera podría un técnico acceder a los sistemas internos de la máquina en caso de producirse un mal funcionamiento?
+14. ¿De que manera se recogerá el cambio (dinero restante) y cómo se recogerán los productos solicitados (ranuras con puerta u otros métodos)?
 
-6. A parte del posicionamiento de los productos delicados, ¿pensais incluir alguna medida de protección de los productos?
+15. Hay una cantidad mayor de productos que pueden dañarse fácilmente (debido a la altura y la naturaleza de los productos) que los productos que se protegen (con el sistema propuesto), ¿pensais incluir alguna medida de seguridad adicional para los productos?
 
-7. ¿De qué forma puede un usuario saber si el dinero que ha introducido es suficiente?
-
-8. El informe de los elementos que se quedan rápido sin stock, ¿de qué forma se redacta y almacena? ¿Cómo se señaliza en caso de quedarse sin stock?
-
-9. ¿Habrá alguna forma de comunicación con la empresa proveedora del servicio para automatizar procesos como reparaciones o reposiciones?
-
-10. ¿De que manera se recogerá el cambio (dinero restante) y cómo se recogerán los productos solicitados?
-
-11. ¿Cuales son los pasos concretos para solicitar un producto y pagarlo?
-
-
-Xiao:
-
-1. Pueden dañarse fácilmente。
-
-2. Porque las cosas no son similares en tamaños, no puede limitar el espacio de exhibición,  y      pérdida de espacio.
-
-3.  No puede comprobar la calidad del producto.
-
-4.  Falta las medidas de emergencia：
-
-     a. Cuando el producto se entrega dañado ¿qué solución tenéis?
-
-     b. Cuando ya pagado pero la maquina no función ¿qué solución tenéis?
-
-     c……….
-
+16. Los productos que ofreceis no tienen, en muchos casos, tamaños similares, ¿cómo pensais organizarlos en el interior de la máquina para evitar la pérdida de espacio?
